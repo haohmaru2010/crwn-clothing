@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Open Sans Condensed';
+  src: local('Open Sans Condensed'), url(./fonts/OpenSansCondensed-Light.ttf) format('truetype');
+}
+
 body {
   font-family: 'Open Sans Condensed';
   padding: 20px 40px;
